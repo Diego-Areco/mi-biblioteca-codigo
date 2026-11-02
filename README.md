@@ -22,5 +22,6 @@ Cada archivo trata un tema distinto. Los commits usan mensajes semánticos (`doc
 
 ## Próximas secciones a agregar
 
+- Más conceptos de HTML
 - Conceptos de CSS
 - Fundamentos de JavaScript
